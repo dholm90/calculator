@@ -31,13 +31,13 @@ header {
 }
 
 .container {
-    /* width: 500px; */
+    width: 260px;
     display: flex;
     flex-direction: column;
     background-color: darkgray;
     padding: 10px;
     border-radius: 10px;
-    flex: 1;
+
     /* justify-content: space-between; */
     /* align-items: center; */
 }
